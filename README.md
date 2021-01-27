@@ -24,4 +24,6 @@ Below is a brief description of what a learner can expect from this program:
 * In the middle of the course you’ll learn about the supervised algorithms like Linear Regession, Logistic Regression,Decision Trees,Random Forests etc, and unsupervised ones like K-Means Clustering and a few more, how to implement them from scratch and how to use them for prediction tasks etc.
 * In addition to our notebooks, the bonus materials in accordance to the respective topics will serve you well by giving you the industry perspective of machine learning.
 * Towards the end of the study plan, we’ll delve a little into Natural Language Processing & Recommender Systems and make you adept at how to apply your machine learning knowledge for real world applications.
+
+For this and more resources like this <a href="https://greyatom.com/resources/">visit GreyAtom Resources Hub</a> 
   
